@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "SFKaAZlWYJj3mob9sr+84ieNses6q9SNgBuMyYBox0Wq2RrWHWVNGKh23CKeSSKjTBsZK1PLNiO74Kqc29pdEg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\papa\\source\\repos\\word_shape\\word_shape\\word_shape.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\papa\\.nuget\\packages\\documentformat.openxml\\2.20.0\\documentformat.openxml.2.20.0.nupkg.sha512",
+    "C:\\Users\\papa\\.nuget\\packages\\system.io.packaging\\4.7.0\\system.io.packaging.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
